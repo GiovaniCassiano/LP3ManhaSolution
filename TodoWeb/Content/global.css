@@ -1,0 +1,26 @@
+﻿body {
+    background-color:black;
+    color:white;
+}
+
+/*
+    Comentário
+*/
+p{
+    color:red;
+}
+.negrito{ /*
+              classe começa com ponto
+          */
+    font-weight:bold
+}
+
+.amarelo{
+    color:yellow;
+    font-weight:normal;
+}
+
+.amarelo.negrito{
+
+}
+
